@@ -116,3 +116,14 @@ The Official R Packages Repo, I have read many of them (especially randomForest)
 **[7]** https://www.analyticsvidhya.com/blog/2017/09/creating-visualizing-neural-network-in-r/<br>
 Artificial Neural Network Example
 
+## License
+Data Mining R Project is licensed under the MIT license. See LICENSE for more information.
+
+## Project Status
+You can download the latest release from this repository.
+
+## Disclaimer
+This project was prepared and shared for educational purposes only. You can use or edit any file as you wish :)
+
+## About
+Süha TANRIVERDİ Çankaya University, Computer Engineering
