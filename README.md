@@ -1,5 +1,5 @@
-# Data-Mining-R-Project 
-![a](https://user-images.githubusercontent.com/36234545/59024439-9208df80-885a-11e9-8e86-ec5f1bcc63e5.png)
+# Data-Mining-R-Project  ![a](https://user-images.githubusercontent.com/36234545/59024439-9208df80-885a-11e9-8e86-ec5f1bcc63e5.png)
+
 
 ## Aim of the Project
 The purpose of this data mining project is to better understand the victims killed by police in the year 2015 in the United States and to understand how they died and for what reason they were killed. As we know from certain sources The United States has much more police murder rates than similar Western murder countries. Keeping this fact in mind, we will try to clarify this subject according to the information in the data. These higher rates may have a particular focus on race and ethnicity, and how this variable has changed the possibility of being a victim of police murders. We will use classification and clustering methods for this purpose.
@@ -127,3 +127,7 @@ This project was prepared and shared for educational purposes only. You can use 
 
 ## About
 Süha TANRIVERDİ Çankaya University, Computer Engineering
+
+## Garbage in, garbage out
+
+![gigo](https://user-images.githubusercontent.com/36234545/59026769-e06cad00-885f-11e9-9b43-480382aabe82.png)
