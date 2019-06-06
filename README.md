@@ -1,7 +1,7 @@
 # Data-Mining-R-Project
 
 ## Aim of the Project
-The purpose of this data mining project is to better understand the victims killed by police in the year 2015 in the United States and to understand how they died and for what reason they were killed. As we know from certain sources The United States has much more police murder rates than similar Western murder countries. Keeping this fact in mind, we will try to clarify this subject according to the information in the data. These higher rates may have a particular focus on race and ethnicity (When we look at the American experience of racism in the past), and how this variable has changed the possibility of being a victim of police murders. We will use classification and clustering methods for this purpose.
+The purpose of this data mining project is to better understand the victims killed by police in the year 2015 in the United States and to understand how they died and for what reason they were killed. As we know from certain sources The United States has much more police murder rates than similar Western murder countries. Keeping this fact in mind, we will try to clarify this subject according to the information in the data. These higher rates may have a particular focus on race and ethnicity, and how this variable has changed the possibility of being a victim of police murders. We will use classification and clustering methods for this purpose.
 I Analyzed the data provided with the feature descriptions provided using R language.
 
 This project contains following steps;
